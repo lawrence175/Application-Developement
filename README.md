@@ -16,7 +16,7 @@ Lawrence k & Tryphine A</br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
 Includes==Register Databases & Diagnosis Database.</br>
-FrontEnd[User Interface;HTML,CSS and PHP]</br>
+FrontEnd[User Interface;HTML,CSS JAVASCRIPT & PHP]</br>
 BackEnd[DataBase;SQL and PHP]</br></br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
