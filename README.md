@@ -6,25 +6,25 @@ This is an online consultation & disease diagnostic system.
 it simulates a virtual doctor,On entering the symptoms of a patient,the system will suggest the disease.
 And also gives health tips & first aid.
 </br>
-----------------------------------------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------------------------------------|</br>
 System data synchronising(Data Processing)
 It displays diagnosis results                                                                                               |
 </br>
-----------------------------------------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------------------------------------|</br>
 [Software Engineers]
-Lawrence k & Tryphine A
+Lawrence k & Tryphine A</br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
 Includes==Register Databases & Diagnosis Database.
 FrontEnd[User Interface;HTML,CSS and PHP]
-BackEnd[DataBase;SQL and PHP]
+BackEnd[DataBase;SQL and PHP]</br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
 User Creditials.
 </br>
-----------------------------------------------------------------------------------------------------------------------------|
-[TEST HOW THE SYSTEM WORKS ]   ||
-----------------------------------------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------------------------------------|</br>
+[TEST HOW THE SYSTEM WORKS ]</br>   
+----------------------------------------------------------------------------------------------------------------------------|</br>
 +YOU HAVE TO EXTRACT THE ZIPPED FILE AND IMPORT  THE DATABASE TO THE MYSQL.
 +IF YOU HAVE WAMP SERVER INSTALLED READY THEN IT'S EASY TO IMPORT THE APPLICATION SYSTEM.
 +THE SYSTEM EMPHASIZES A CLINICAL APPROACH,BUT ALSO IT REMAINS,NONETHELESS,A PREDICTIVE PROCEDURE.
@@ -33,7 +33,7 @@ THUS,THE PHYSICIAN AND/OR PATIENT SHOULD REGARD THE OUTPUT OF THIS SYSTEM THE SA
 </br>
 **MIT License**</br>
 
-Copyright (c) [2016] [lawrence kisembo && Tryphean Ain]</br>
+Copyright (c) [2016] [lawrence kisembo && Tryphean Aineomugisha]</br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
