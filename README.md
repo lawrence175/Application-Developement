@@ -1,6 +1,6 @@
 # System-Developement
 </br>
------------------------------------------/HumanDiseaseDiagnosticSystem/---------------------------------------------------|
+----------------------------------------/HumanDiseaseDiagnosticSystem/------------------------------------------------|
 </br>
 This is an online consultation & disease diagnostic system.</br>
 It simulates a virtual doctor,On entering the symptoms of a patient,the system will suggest the disease.</br>
@@ -33,7 +33,7 @@ THUS,THE PHYSICIAN AND/OR PATIENT SHOULD REGARD THE OUTPUT OF THIS SYSTEM THE SA
 </br>
 **MIT License**</br>
 
-Copyright (c) [2016] [lawrence kisembo && Tryphean Aineomugisha]</br>
+Copyright (c) [2016] [lawrence kisembo & Tryphean Aineomugisha]</br>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
