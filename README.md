@@ -27,6 +27,15 @@ User Creditials.
 +IF YOU HAVE WAMP SERVER INSTALLED READY THEN IT'S EASY TO IMPORT THE APPLICATION SYSTEM.</br>
 +THE SYSTEM EMPHASIZES A CLINICAL APPROACH,BUT ALSO IT REMAINS,NONETHELESS,A PREDICTIVE PROCEDURE.</br>
 THUS,THE PHYSICIAN AND/OR PATIENT SHOULD REGARD THE OUTPUT OF THIS SYSTEM THE SAME AS HE DOES ANY FOR DISEASE PREDICTION.</br>
+
+**OR** 
+</br>
+PHP projects need a server to run which can be WAMP Server or any other. So you need to install a server for running these projects successfully.</br> This is free resource so you can download each project for free. So now question arises how you can run these projects, its simple process.</br>
+
+The next step is to download the source code[zipped file].</br>
+Now unzip and copy the source files to web root folder of server.</br>
+Import the database from the database files given with given project source files.</br>
+Now start the server and run the project from using by browsing the directory with local host.</br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
 **MIT License**</br>
