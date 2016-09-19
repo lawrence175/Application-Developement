@@ -21,14 +21,8 @@ BackEnd[DataBase;SQL and PHP]</br></br>
 User Creditials.
 </br>
 ----------------------------------------------------------------------------------------------------------------------------|</br>
-[TEST HOW THE SYSTEM WORKS ]</br>   
+[**TEST HOW THE SYSTEM WORKS**]</br>   
 ----------------------------------------------------------------------------------------------------------------------------|</br>
-+YOU HAVE TO EXTRACT THE ZIPPED FILE AND IMPORT  THE DATABASE TO THE MYSQL.</br>
-+IF YOU HAVE WAMP SERVER INSTALLED READY THEN IT'S EASY TO IMPORT THE APPLICATION SYSTEM.</br>
-+THE SYSTEM EMPHASIZES A CLINICAL APPROACH,BUT ALSO IT REMAINS,NONETHELESS,A PREDICTIVE PROCEDURE.</br>
-THUS,THE PHYSICIAN AND/OR PATIENT SHOULD REGARD THE OUTPUT OF THIS SYSTEM THE SAME AS HE DOES ANY FOR DISEASE PREDICTION.</br>
-
-**OR** 
 </br>
 PHP projects need a server to run which can be WAMP Server or any other. So you need to install a server for running these projects successfully.</br> This is free resource so you can download each project for free. So now question arises how you can run these projects, its simple process.</br>
 
