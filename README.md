@@ -1,4 +1,4 @@
-----------------------------------------/HumanDiseaseDiagnosticSystem/------------------------------------------------|
+----------------------------------------/HumanDiseaseDiagnosticSystem/---------------------------------------------|
 </br>
 This is an online consultation & disease diagnostic system.</br>
 It simulates a virtual doctor,On entering the symptoms of a patient,the system will suggest the disease.</br>
