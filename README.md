@@ -24,12 +24,13 @@ User Creditials.
 [**TEST HOW THE SYSTEM WORKS**]</br>   
 ----------------------------------------------------------------------------------------------------------------------------|</br>
 </br>
-PHP projects need a server to run which can be WAMP Server or any other. So you need to install a server for running these projects successfully.</br> This is free resource so you can download each project for free. So now question arises how you can run these projects, its simple process.</br>
+This project need a server to run which can be WAMP Server or any other. So you need to install a server for running this project successfully.</br> This is a free resource, so you can download the project for free and do some reverse engineering.</br> So now question arises how you can run these projects, its simple process.</br>
 
 The next step is to download the source code[zipped file].</br>
-Now unzip and copy the source files to web root folder of server.</br>
+Now unzip and copy the source files to web root folder of your server.</br>
 Import the database from the database files given with given project source files.</br>
 Now start the server and run the project from using by browsing the directory with local host.</br>
+NOTE:If the project does not run effectively[error rises] you can contact the Owner[Developer]</br>
 ----------------------------------------------------------------------------------------------------------------------------|
 </br>
 **MIT License**</br>
